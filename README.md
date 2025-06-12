@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucky
 
-<!--
-**luckydev1031/luckydev1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer 🚀 working with modern technologies like:
 
-Here are some ideas to get you started:
+- 🟨 JavaScript, React, Node.js
+- 🐍 Python, FastAPI
+- ⚙️ Solidity, Web3
+- ⚛️ Blockchain Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckydev1031&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckydev1031&layout=compact)
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=luckydev1031&theme=onedark)
+
+---
+🌱 I’m currently learning: Smart contracts, DeFi systems  
+📫 How to reach me: [Email](olajsoft@gmail.com)
